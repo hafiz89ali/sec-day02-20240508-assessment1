@@ -1,1 +1,1 @@
-# sec-day02-20240508-assignment1
+# sec-day02-20240508-assessment1
